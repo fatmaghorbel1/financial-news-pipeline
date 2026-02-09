@@ -1,0 +1,20 @@
+# Core dependencies
+pandas==2.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Sentiment analysis
+vaderSentiment==3.3.2
+
+# Database
+duckdb==0.9.0
+
+# Dashboard
+streamlit==1.28.0
+plotly==5.17.0
+
+# Data quality
+great-expectations==0.18.0
+
+# Utilities
+python-dateutil==2.8.2

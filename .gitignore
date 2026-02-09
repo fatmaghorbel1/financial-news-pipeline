@@ -1,0 +1,30 @@
+# Environment variable
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Database files
+data/*.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.db
+airflow.cfg
+
+# OS files
+.DS_Store
+Thumbs.db
